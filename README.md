@@ -64,7 +64,7 @@ Users can select options like **uppercase letters**, **lowercase letters**, **nu
 
 ## ✨ Live Demo
 
-👉 [Live Preview Here](https://codewithshambhu.github.io/password-generator/)
+👉 [Live Preview Here](https://codewithshambhu.github.io/Password-Generator/)
 
 ---
 
